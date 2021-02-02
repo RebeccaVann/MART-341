@@ -1,0 +1,6 @@
+Provide three websites that you enjoy visiting? https://www.ideo.com. https://minimalistbaker.com. https://www.nathanieldrew.com
+What is the relationship between an IP address and the DNS? The IP address is a number assigned to any computer or server. DNS or Domain Name Server translates domain names to the IP address and organizes them in a way your computer can understand. 
+What is a cookie? A cookie is a piece of data that is stored on your computer while using the website you are on. 
+List the three essential parts of a URL. Protocol, Domain name, Path
+In your README.md, use Markdown and add the title "Assignment 3" with a heading 1. Underneath, add your name as a heading 2.
+Add a list of 3 things you've learned so far. I have never really understood how the internet works other than transmitting a bunch of zeros and ones, it was especially cool to learn about the pathways that connect continents under the sea.  Despite having taken a web design class at MSU I was never taught about IP addresses and DNS and how information gets from one source to another. I have learned about Atom and Github and the benefit of saving information and coding in a site that slows you to look back and share information with others. 
