@@ -1,0 +1,2 @@
+Rebecca Vann
+This week was a bit stressful because it was the first week I had access to all of my classes online. Some of the other professors I have did not get back to me before I was officially added to the class and I had to do a lot of catching up. I also was in a marketing competition last semester at MSU with the American Marketing Association where I worked as the graphic designer. I found out we placed in the top 10 in the nation and while that is exciting it means I will have to take lots of road trips over the semester.  
