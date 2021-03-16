@@ -1,0 +1,3 @@
+I knew the basic structure of html like creating a head a body and the headers and p inside but knew nothing about making the page interactive like putting in video, audio or forums. I sometimes struggle with understanding why certain links wont work and can get frustrated but I have found it all interesting!
+I'm excited to get closer to making pages that looks acceptable on the modern web. I know css is essential in making multiple pages with the same style and editing more specific elements easier.
+My challenges this week consisted of finding a good amount of time to do homework with driving from Missoula to Bozeman and working. I was able to work around this of course but it did cause extra frustration when I couldn't get me website to work the way I wanted.
