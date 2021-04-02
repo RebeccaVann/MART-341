@@ -1,0 +1,100 @@
+body{
+background-color: #b5e5ff;
+
+}
+
+  div{
+
+
+    line-height: 1.45em;
+    font-family: Poppins, sans-serif;
+    margin-bottom: 10px;
+    padding-left:  90px;
+    padding-right: 90px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size:20px;
+    color: #636363;
+    font: Arial;
+
+
+}
+
+h1{
+    text-align: center;
+    font-family: DancingScript;
+    font-size: 100px;
+    color: #007abd;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font weight: 25px;
+
+}
+
+h2{
+text-align: center;
+font-family: Poppins2;
+font-style: 60px;
+padding-top: 0px;
+padding-bottom: 0px;
+}
+
+hr.solid {
+ border-top: 3px solid #007abd;
+}
+
+.quote1{
+
+  text-align: left;
+
+    text-indent: 10px;
+    font-weight:700;
+
+}
+
+.quote2{
+
+
+  text-indent: 10px;
+  font-weight:700;
+  text-align: center;
+}
+
+.quote3{
+  text-align: left;
+
+
+  text-indent: 10px;
+  font-weight:700;
+}
+.quote4{
+  text-align: left;
+
+
+  text-indent: 10px;
+  font-weight:700;
+}
+.quote5{
+  text-align: left;
+
+
+  text-indent: 10px;
+  font-weight:700;
+}
+.quote6{
+  text-align: left;
+
+  text-indent: 10px;
+  font-weight:700;
+}
+#book_info{
+    text-decoration: none;
+      font-family: Poppins, sans-serif;
+      font-size:25px;
+}
+#book_info:hover{
+    font-family: Poppins2;
+    text-decoration: underline;
+    font-weight: 700;
+
+}
