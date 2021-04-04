@@ -1,0 +1,3 @@
+1. What is the difference between padding, margin, and borders? Margins are the distance from the edge of a page to an element. Padding is the area surrounding en element separating it from other parts of the page. Borders are a line around an element and its padding.
+
+2. Free Response: Discuss any challenges you had this week and how you overcame them. I didn't have any technical problems this week but i realized that after our meeting earlier I forgot to turn int he link to my homework last week. I am so sorry about that, I thought i had uploaded it but had the wrong version because of my issues with Github. Everything it working great now!
