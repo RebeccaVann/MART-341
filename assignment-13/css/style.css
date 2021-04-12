@@ -1,0 +1,183 @@
+
+body{
+    background-color: beige;
+}
+div{
+    text-align: left;
+    line-height: 1.45em;
+    font-family: Merriweather, sans-serif;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+h1{
+  text-align: left;
+  font-size: 50px;
+  padding-left: 50px;
+padding-top: 100px;
+font-family: DancingScript;
+}
+
+h2{
+  text-align: center;
+  font-size: 50px;
+  padding-top: 100px;
+  font-family: DancingScript;
+}
+
+h3{
+  text-align: center;
+  font-size:25px;
+  font-family: Poppins2;
+
+
+}
+
+.container {
+        display: flex;
+        align-items: center;
+        justify-content: center
+      }
+      img {
+        max-width: 620px;
+      }
+      .image {
+        flex-basis: 40%;
+        @media only screen and (min-width: 600px) {
+    .mainimage{
+        content:url("../images/road1.jpg");
+    }
+}
+      }
+      .idea {
+        font-size: 18.5px;
+        padding-left: 20px;
+      }
+
+}
+.opening-paragraph{
+    color: black;
+    font-size: 2px;
+
+
+}
+
+.mainimage{
+    content:url("../images/goat2.webp");
+    width: 700px;
+    float: right;
+    padding-left: 50px;
+    @media only screen and (min-width: 600px) {
+    .mainimage{
+        content:url("../images/road1.jpg");
+    }
+}
+}
+
+
+table{
+    border: 1px dashed black;
+    font-family:  FiraSans, sans-serif;
+    font-weight: 700;
+    padding: 10px;
+}
+
+
+p{
+
+    padding-right: 50px;
+    font-family: Poppins;
+}
+
+/* Set your header design: */
+header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: #26272b;
+    font-family: Merriweather;
+    text-transform: uppercase;
+    margin-top: 0;
+    height: 4em;
+    width: 100%;
+    text-align: left;
+}
+
+/* Set the layout of the menu: */
+.menu-item {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 6em;
+    text-align: center;
+    background-color: #26272b;
+    padding: 0.5em 1em;
+}
+
+/* Style the links: */
+.menu-item a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    background-color: gray;
+
+}
+
+/* Add a dropdown feature: */
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid #000;
+    margin: 0.5em 0 0 -1em;
+    color: #000;
+    background-color: #fff;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: #000;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Style dropdown item display: */
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 5.9em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: black;
+    background-color: #a2a2a2;
+}
+
+.image2{
+    margin:auto;
+    content:url("../images/goats.jpeg");
+    width: 1200px;
+    @media only screen and (min-width: 600px) {
+    .mainimage{
+        content:url("../images/road1.jpg");
+    }
+}
+}
+.moregoats{
+  content: url("../images/babygoat.webp");
+  width: 500px;
+  float: left;
+  padding-top: 30px;
+  padding-right: 30px;
+  @media only screen and (min-width: 600px) {
+    .mainimage{
+        content:url("../images/road1.jpg");
+    }
+}
+}
